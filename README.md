@@ -11,4 +11,5 @@ Tools & Technologies: Microsoft Excel, Pivot Tables, Charts, Statistical Analysi
 
 Objective: To transform raw pharmaceutical distribution data into meaningful insights that support better business decisions.
 MS EXCEL PROJECT FILE
+https://drive.google.com/drive/folders/1gXxtwjoKQxweg25ZGJ-50bXCcvhBc5w7?usp=sharing
 

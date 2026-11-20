@@ -10,4 +10,5 @@ It also includes correlation analysis and 10 business insights to understand sal
 Tools & Technologies: Microsoft Excel, Pivot Tables, Charts, Statistical Analysis, Correlation, Linear Regression, Data Cleaning.
 
 Objective: To transform raw pharmaceutical distribution data into meaningful insights that support better business decisions.
-Outputs are in MS Exel sheets
+MS EXCEL PROJECT FILE
+
